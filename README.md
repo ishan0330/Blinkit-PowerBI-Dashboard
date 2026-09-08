@@ -9,8 +9,6 @@ The dashboard provides insights into sales, products, outlet performance, custom
 ## 🛠️ Tools Used
 
 * Microsoft Power BI
-* Power Query
-* DAX
 * Data Visualization
 
 ## 📈 Key Areas of Analysis
